@@ -1,4 +1,5 @@
-
+Author:- Rohit Patel
+<br>
 # itarate by index/ position
 <br>
 my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 26, 25, 30]
